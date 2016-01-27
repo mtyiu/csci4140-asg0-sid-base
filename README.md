@@ -1,14 +1,14 @@
-# CSCI 4140: Assignment 0
-## Give me your student ID!
+# CSCI 4140 - Assignment 0: Give me your student ID!
 
-### TL;DR
+## TL;DR
 
 In this assignment, you need to:
+
 1. Put your student ID in the file `sid.txt`
 2. `git add`, `git commit` and `git push` to your own assignment repository
 3. Due date: **3 February 2016 (Wednesday), 23:59:59**
 
-### More details
+## More details
 
 This assignment is to help you get familiar with the work flow of using git and GitHub classroom.
 
@@ -30,3 +30,8 @@ Please complete this by **3 February 2016 (Wednesday), 23:59:59**.
 1. We need to map your student ID with your GitHub account (or else we cannot identify your submission later)
 2. Make sure that you won't meet any problems when you submit Assignment 1 & 2 later
 
+---
+
+Course home page: <http://www.tywong-mole.com/~csci4140>
+
+Tutorial resource page: <https://github.com/mtyiu/csci4140-spring16>
