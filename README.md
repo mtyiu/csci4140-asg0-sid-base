@@ -1,4 +1,4 @@
-# CSCI 4140 - Assignment 0: Give me your student ID!
+# Assignment 0: Give me your student ID!
 
 ## TL;DR
 
