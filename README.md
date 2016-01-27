@@ -4,9 +4,10 @@
 
 In this assignment, you need to:
 
-1. Put your student ID in the file `sid.txt`
-2. `git add`, `git commit` and `git push` to your own assignment repository
-3. Due date: **3 February 2016 (Wednesday), 23:59:59**
+1. Get your assignment repository using the invitation link
+2. Put your student ID in the file `sid.txt`
+3. `git add`, `git commit` and `git push` to your own assignment repository
+4. Due date: **3 February 2016 (Wednesday), 23:59:59**
 
 ## More details
 
@@ -15,9 +16,10 @@ This assignment is to help you get familiar with the work flow of using git and 
 In this assignment, you will need to:
 
 1. Register a GitHub account (if you did not have one yet)
-2. Using `git clone` to clone an existing git repository
-3. Make changes to the repository
-4. Commit and push the changes using `git commit` and `git push`
+2. Get your assignment repository using the invitation link
+3. Using `git clone` to clone the repository
+4. Make changes to the repository
+5. Commit and push the changes using `git commit` and `git push`
 
 You are free to do anything in this repository. There is only one requirement: give me your student ID!
 
